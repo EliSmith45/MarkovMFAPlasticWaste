@@ -1,0 +1,250 @@
+﻿region,sub_region,iso3c
+Africa,Northern Africa,DZA
+Africa,Northern Africa,EGY
+Africa,Northern Africa,LBY
+Africa,Northern Africa,MAR
+Africa,Northern Africa,SDN
+Africa,Northern Africa,TUN
+Africa,Northern Africa,ESH
+Africa,Sub-Saharan Africa,IOT
+Africa,Sub-Saharan Africa,BDI
+Africa,Sub-Saharan Africa,COM
+Africa,Sub-Saharan Africa,DJI
+Africa,Sub-Saharan Africa,ERI
+Africa,Sub-Saharan Africa,ETH
+Africa,Sub-Saharan Africa,ATF
+Africa,Sub-Saharan Africa,KEN
+Africa,Sub-Saharan Africa,MDG
+Africa,Sub-Saharan Africa,MWI
+Africa,Sub-Saharan Africa,MUS
+Africa,Sub-Saharan Africa,MYT
+Africa,Sub-Saharan Africa,MOZ
+Africa,Sub-Saharan Africa,REU
+Africa,Sub-Saharan Africa,RWA
+Africa,Sub-Saharan Africa,SYC
+Africa,Sub-Saharan Africa,SOM
+Africa,Sub-Saharan Africa,SSD
+Africa,Sub-Saharan Africa,UGA
+Africa,Sub-Saharan Africa,TZA
+Africa,Sub-Saharan Africa,ZMB
+Africa,Sub-Saharan Africa,ZWE
+Africa,Sub-Saharan Africa,AGO
+Africa,Sub-Saharan Africa,CMR
+Africa,Sub-Saharan Africa,CAF
+Africa,Sub-Saharan Africa,TCD
+Africa,Sub-Saharan Africa,COG
+Africa,Sub-Saharan Africa,COD
+Africa,Sub-Saharan Africa,GNQ
+Africa,Sub-Saharan Africa,GAB
+Africa,Sub-Saharan Africa,STP
+Africa,Sub-Saharan Africa,BWA
+Africa,Sub-Saharan Africa,SWZ
+Africa,Sub-Saharan Africa,LSO
+Africa,Sub-Saharan Africa,NAM
+Africa,Sub-Saharan Africa,ZAF
+Africa,Sub-Saharan Africa,BEN
+Africa,Sub-Saharan Africa,BFA
+Africa,Sub-Saharan Africa,CPV
+Africa,Sub-Saharan Africa,CIV
+Africa,Sub-Saharan Africa,GMB
+Africa,Sub-Saharan Africa,GHA
+Africa,Sub-Saharan Africa,GIN
+Africa,Sub-Saharan Africa,GNB
+Africa,Sub-Saharan Africa,LBR
+Africa,Sub-Saharan Africa,MLI
+Africa,Sub-Saharan Africa,MRT
+Africa,Sub-Saharan Africa,NER
+Africa,Sub-Saharan Africa,NGA
+Africa,Sub-Saharan Africa,SHN
+Africa,Sub-Saharan Africa,SEN
+Africa,Sub-Saharan Africa,SLE
+Africa,Sub-Saharan Africa,TGO
+Americas,Latin America and the Caribbean,AIA
+Americas,Latin America and the Caribbean,ATG
+Americas,Latin America and the Caribbean,ABW
+Americas,Latin America and the Caribbean,BHS
+Americas,Latin America and the Caribbean,BRB
+Americas,Latin America and the Caribbean,BQ
+Americas,Latin America and the Caribbean,VGB
+Americas,Latin America and the Caribbean,CYM
+Americas,Latin America and the Caribbean,CUB
+Americas,Latin America and the Caribbean,CUW
+Americas,Latin America and the Caribbean,DMA
+Americas,Latin America and the Caribbean,DOM
+Americas,Latin America and the Caribbean,GRD
+Americas,Latin America and the Caribbean,GLP
+Americas,Latin America and the Caribbean,HTI
+Americas,Latin America and the Caribbean,JAM
+Americas,Latin America and the Caribbean,MTQ
+Americas,Latin America and the Caribbean,MSR
+Americas,Latin America and the Caribbean,PRI
+Americas,Latin America and the Caribbean,BLM
+Americas,Latin America and the Caribbean,KNA
+Americas,Latin America and the Caribbean,LCA
+Americas,Latin America and the Caribbean,MAF
+Americas,Latin America and the Caribbean,VCT
+Americas,Latin America and the Caribbean,SXM
+Americas,Latin America and the Caribbean,TTO
+Americas,Latin America and the Caribbean,TCA
+Americas,Latin America and the Caribbean,VIR
+Americas,Latin America and the Caribbean,BLZ
+Americas,Latin America and the Caribbean,CRI
+Americas,Latin America and the Caribbean,SLV
+Americas,Latin America and the Caribbean,GTM
+Americas,Latin America and the Caribbean,HND
+Americas,Latin America and the Caribbean,MEX
+Americas,Latin America and the Caribbean,NIC
+Americas,Latin America and the Caribbean,PAN
+Americas,Latin America and the Caribbean,ARG
+Americas,Latin America and the Caribbean,BOL
+Americas,Latin America and the Caribbean,BVT
+Americas,Latin America and the Caribbean,BRA
+Americas,Latin America and the Caribbean,CHL
+Americas,Latin America and the Caribbean,COL
+Americas,Latin America and the Caribbean,ECU
+Americas,Latin America and the Caribbean,FLK
+Americas,Latin America and the Caribbean,GUF
+Americas,Latin America and the Caribbean,GUY
+Americas,Latin America and the Caribbean,PRY
+Americas,Latin America and the Caribbean,PER
+Americas,Latin America and the Caribbean,SGS
+Americas,Latin America and the Caribbean,SUR
+Americas,Latin America and the Caribbean,URY
+Americas,Latin America and the Caribbean,VEN
+Americas,Northern America,BMU
+Americas,Northern America,CAN
+Americas,Northern America,GRL
+Americas,Northern America,SPM
+Americas,Northern America,USA
+,,ATA
+Asia,Central Asia,KAZ
+Asia,Central Asia,KGZ
+Asia,Central Asia,TJK
+Asia,Central Asia,TKM
+Asia,Central Asia,UZB
+Asia,Eastern Asia,CHN
+Asia,Eastern Asia,HKG
+Asia,Eastern Asia,MO
+Asia,Eastern Asia,PRK
+Asia,Eastern Asia,JPN
+Asia,Eastern Asia,MNG
+Asia,Eastern Asia,KOR
+Asia,South-eastern Asia,BRN
+Asia,South-eastern Asia,KHM
+Asia,South-eastern Asia,IDN
+Asia,South-eastern Asia,LAO
+Asia,South-eastern Asia,MYS
+Asia,South-eastern Asia,MMR
+Asia,South-eastern Asia,PHL
+Asia,South-eastern Asia,SGP
+Asia,South-eastern Asia,THA
+Asia,South-eastern Asia,TLS
+Asia,South-eastern Asia,VNM
+Asia,Southern Asia,AFG
+Asia,Southern Asia,BGD
+Asia,Southern Asia,BTN
+Asia,Southern Asia,IND
+Asia,Southern Asia,IRN
+Asia,Southern Asia,MDV
+Asia,Southern Asia,NPL
+Asia,Southern Asia,PAK
+Asia,Southern Asia,LKA
+Asia,Western Asia,ARM
+Asia,Western Asia,AZE
+Asia,Western Asia,BHR
+Asia,Western Asia,CYP
+Asia,Western Asia,GEO
+Asia,Western Asia,IRQ
+Asia,Western Asia,ISR
+Asia,Western Asia,JOR
+Asia,Western Asia,KWT
+Asia,Western Asia,LBN
+Asia,Western Asia,OMN
+Asia,Western Asia,QAT
+Asia,Western Asia,SAU
+Asia,Western Asia,PSE
+Asia,Western Asia,SYR
+Asia,Western Asia,TUR
+Asia,Western Asia,ARE
+Asia,Western Asia,YEM
+Europe,Eastern Europe,BLR
+Europe,Eastern Europe,BGR
+Europe,Eastern Europe,CZE
+Europe,Eastern Europe,HUN
+Europe,Eastern Europe,POL
+Europe,Eastern Europe,MDA
+Europe,Eastern Europe,ROU
+Europe,Eastern Europe,RUS
+Europe,Eastern Europe,SVK
+Europe,Eastern Europe,UKR
+Europe,Northern Europe,ALA
+Europe,Northern Europe,GGY
+Europe,Northern Europe,JEY
+Europe,Northern Europe,
+Europe,Northern Europe,DNK
+Europe,Northern Europe,EST
+Europe,Northern Europe,FRO
+Europe,Northern Europe,FIN
+Europe,Northern Europe,ISL
+Europe,Northern Europe,IRL
+Europe,Northern Europe,IMN
+Europe,Northern Europe,LVA
+Europe,Northern Europe,LTU
+Europe,Northern Europe,NOR
+Europe,Northern Europe,SJM
+Europe,Northern Europe,SWE
+Europe,Northern Europe,GBR
+Europe,Southern Europe,ALB
+Europe,Southern Europe,AND
+Europe,Southern Europe,BIH
+Europe,Southern Europe,HRV
+Europe,Southern Europe,GIB
+Europe,Southern Europe,GRC
+Europe,Southern Europe,VAT
+Europe,Southern Europe,ITA
+Europe,Southern Europe,MLT
+Europe,Southern Europe,MNE
+Europe,Southern Europe,MKD
+Europe,Southern Europe,PRT
+Europe,Southern Europe,SMR
+Europe,Southern Europe,SRB
+Europe,Southern Europe,SVN
+Europe,Southern Europe,ESP
+Europe,Western Europe,AUT
+Europe,Western Europe,BEL
+Europe,Western Europe,FRA
+Europe,Western Europe,DEU
+Europe,Western Europe,LIE
+Europe,Western Europe,LUX
+Europe,Western Europe,MCO
+Europe,Western Europe,NLD
+Europe,Western Europe,CHE
+Oceania,Australia and New Zealand,AUS
+Oceania,Australia and New Zealand,CXR
+Oceania,Australia and New Zealand,CCK
+Oceania,Australia and New Zealand,HMD
+Oceania,Australia and New Zealand,NZL
+Oceania,Australia and New Zealand,NFK
+Oceania,Melanesia,FJI
+Oceania,Melanesia,NCL
+Oceania,Melanesia,PNG
+Oceania,Melanesia,SLB
+Oceania,Melanesia,VUT
+Oceania,Micronesia,GUM
+Oceania,Micronesia,KIR
+Oceania,Micronesia,MHL
+Oceania,Micronesia,FSM
+Oceania,Micronesia,NRU
+Oceania,Micronesia,MNP
+Oceania,Micronesia,PLW
+Oceania,Micronesia,UMI
+Oceania,Polynesia,ASM
+Oceania,Polynesia,COK
+Oceania,Polynesia,PYF
+Oceania,Polynesia,NIU
+Oceania,Polynesia,PCN
+Oceania,Polynesia,WSM
+Oceania,Polynesia,TKL
+Oceania,Polynesia,TON
+Oceania,Polynesia,TUV
+Oceania,Polynesia,WLF
